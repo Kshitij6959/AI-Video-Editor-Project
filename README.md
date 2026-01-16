@@ -12,9 +12,10 @@ This project automates the video editing process by removing silence and "dead a
 ## How to Run
 1.  Open the `AI_Video_Editor.ipynb` notebook.
 2.  Upload your raw video as `input_video.mp4`.
-3.  Run all cells to generate `final_cut.mp4`.
+3.  Run all cells to generate `final_ai_vlog`.
 
 ## Dependencies
 * Python 3.x
 
 * See `requirements.txt` for library details.
+
