@@ -1,7 +1,7 @@
 # AI-Powered Video Auto-Editor
 
 ## Project Overview
-**Module F: AI Applications**
+**Module E: AI Applications**
 This project automates the video editing process by removing silence and "dead air" from raw footage. It utilizes OpenAI's Whisper model for accurate speech detection, ensuring that cuts are based on semantic content rather than just volume thresholds.
 
 ## Features
@@ -16,4 +16,5 @@ This project automates the video editing process by removing silence and "dead a
 
 ## Dependencies
 * Python 3.x
+
 * See `requirements.txt` for library details.
